@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Leeson_Reminder_project/static/css/main.67dca44d.css",
+    "main.js": "/Leeson_Reminder_project/static/js/main.6d7d1acd.js",
+    "index.html": "/Leeson_Reminder_project/index.html",
+    "main.67dca44d.css.map": "/Leeson_Reminder_project/static/css/main.67dca44d.css.map",
+    "main.6d7d1acd.js.map": "/Leeson_Reminder_project/static/js/main.6d7d1acd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67dca44d.css",
+    "static/js/main.6d7d1acd.js"
+  ]
+}
